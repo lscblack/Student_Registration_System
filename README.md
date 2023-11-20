@@ -21,7 +21,7 @@ The Student Registration System is a Python application that manages student rec
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/your_repository.git
+    git clone https://github.com/lscblack/Student_Registration_System.git
     ```
 
 2. Navigate to the project directory:
